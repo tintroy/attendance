@@ -53,7 +53,8 @@ else {
         <small id="phoneHelp" class="form-text text-muted">We'll never share your phone number with anyone else.</small>
         </div>
 
-    <button type="submit" name="submit" class="btn btn-success btn-block">Save Changes</button>
+    <a href="viewrecords.php" class="btn btn-info">Back To List</a>
+    <button type="submit" name="submit" class="btn btn-success">Save Changes</button>
 </form>
 <?php } ?>
 <br>
